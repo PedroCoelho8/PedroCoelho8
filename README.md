@@ -28,7 +28,7 @@ Sou estudante do **Mestrado em Engenharia Informática** no ISEP — Instituto S
   - https://github.com/PedroCoelho8/DESOFS-Projeto
 - Engenharia orientada a Modelos
   - https://github.com/PedroCoelho8/ENORM-Projeto
-- Sistemas multinúcleos e Dístribuidos
+- Sistemas multinúcleos e Distribuídos
   - https://github.com/PedroCoelho8/SISMD-P1
 - Técnicas Avançadas de Programação
   - https://github.com/PedroCoelho8/TAP-Projeto
