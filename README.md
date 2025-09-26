@@ -41,5 +41,3 @@ Sou estudante do **Mestrado em Engenharia Informática** no ISEP — Instituto S
 - Email académico: 1240485@isep.ipp.pt
 
 ---
-
-> Sempre à procura de novos desafios, colaboração e oportunidades de crescimento em Engenharia de Software e áreas afins!
